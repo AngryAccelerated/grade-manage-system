@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/locale">
+        <file>chinese.qm</file>
+        <file>chinese.ts</file>
+    </qresource>
+</RCC>
